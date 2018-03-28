@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gruniozerca", "Gruniozerca.csproj", "{D7467FD0-D6C0-967E-3C56-97286F634CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gruniozerca.Editor", "Gruniozerca.Editor.csproj", "{164E49EB-E150-3532-5346-A84B5AC5AC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7467FD0-D6C0-967E-3C56-97286F634CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7467FD0-D6C0-967E-3C56-97286F634CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7467FD0-D6C0-967E-3C56-97286F634CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7467FD0-D6C0-967E-3C56-97286F634CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164E49EB-E150-3532-5346-A84B5AC5AC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164E49EB-E150-3532-5346-A84B5AC5AC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164E49EB-E150-3532-5346-A84B5AC5AC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164E49EB-E150-3532-5346-A84B5AC5AC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
